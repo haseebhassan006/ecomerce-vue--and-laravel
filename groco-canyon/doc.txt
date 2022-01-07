@@ -1,0 +1,1 @@
+for documents please open index.html in a browser from docs folder avobe
